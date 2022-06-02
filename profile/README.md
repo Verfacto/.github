@@ -2,7 +2,6 @@
 ![verfacto-gh-banner-4@2x](https://user-images.githubusercontent.com/106514811/171644728-32e2f746-b36b-4109-a15a-9706a257873d.jpg)
 
 
-## Description
 
 See what turns your visitors into customers and what are their behavioral patterns. Forget about boring graphs and useless reports. Act upon customer journeys details, not generalized website activity.
 
